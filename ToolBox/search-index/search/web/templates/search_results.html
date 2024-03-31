@@ -1,0 +1,21 @@
+{{ define "content" }}
+<div class="container mt-4">
+    <h2>Search Results for "{{ .Query }}"</h2>
+    {{ if gt (len .Results) 0 }}
+    <ul class="list-group list-group-flush">
+        {{ range .Results }}
+        <li class="list-group-item">
+            <h5>{{ .Title }}</h5>
+            {{ if .Description }}
+            <p>{{ .Description }}</p>
+            {{ else }}
+            <p>No description available.</p>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+    {{ else }}
+    <p>No results found.</p>
+    {{ end }}
+</div>
+{{ end }}
