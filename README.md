@@ -46,8 +46,12 @@ This innovative tool employs the concept of Merkle trees to enhance data integri
 ### 4. Indexing Tool
 To improve data discoverability, this tool takes the metadata and any additional dataset information to create an indexed structure. By organizing data in this manner, it facilitates quick and efficient data retrieval, allowing users to find the information they need promptly. This step is crucial for managing large volumes of data, ensuring that users can navigate and utilize the dataset effectively.
 
+[Code Location - Indexing Tool](https://github.com/ShaneSCalder/MAC-ToolBox/tree/main/ToolBox/search-index/search)
+
 ### 5. Search Program Creation Tool
 The final tool in the suite leverages the indexed metadata to create a search program. This program enables users to conduct searches within the dataset, utilizing the indexed metadata to quickly locate relevant data chunks. This tool is the capstone of the MAC Data Economy suite, providing an accessible and user-friendly interface for data retrieval, ensuring that the valuable information contained within the dataset can be easily found and utilized.
+
+[Code Location - Search Program Creation Tool](https://github.com/ShaneSCalder/MAC-ToolBox/tree/main/ToolBox/search-index/search)
 
 The MAC Data Economy toolset by Merkle Meta is designed for organizations and individuals dealing with large datasets, prioritizing data integrity, security, and accessibility. By streamlining the process of data management from metadata creation to search and retrieval, this suite offers a comprehensive solution that addresses the challenges of big data, ensuring that data remains trustworthy, manageable, and easily accessible.
 
