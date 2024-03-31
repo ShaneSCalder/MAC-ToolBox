@@ -21,6 +21,8 @@ The MAC Toolbox directly tackles these challenges with an array of tools designe
 ### 1. Metadata Creation Tool
 This tool initiates the data management process by creating metadata files according to the Dublin Core Metadata Standard. It generates a comprehensive metadata description for the dataset, covering essential aspects such as title, creator, subject, description, and format. This foundational step ensures that each dataset comes with a standardized description, facilitating easier identification, management, and retrieval.
 
+[Video - Metadata Creation Tool](https://youtu.be/WqArAazN1fA)
+
 [Code Location - Metadata Creation Tool](https://github.com/ShaneSCalder/JSON-Creation-WebApp-Tool-MAC)
 
 ### 2. Data Chunking and Metadata Updating Tool
