@@ -25,12 +25,16 @@ This tool initiates the data management process by creating metadata files accor
 
 [Code Location - Metadata Creation Tool](https://github.com/ShaneSCalder/JSON-Creation-WebApp-Tool-MAC)
 
+
 ### 2. Data Chunking and Metadata Updating Tool
 Following metadata creation, this tool processes the dataset by dividing it into smaller, more manageable chunks. This process is crucial for handling large datasets, making them more accessible and easier to work with. Simultaneously, the tool updates the metadata to reflect these chunks, creating individual metadata files for each piece. This ensures that each data chunk is adequately described and can be independently managed and utilized.
 
 [Video - Data Chunking and Metadata Updating Tool](https://youtu.be/Bb0ZwIUJvus)
 
 [Code Location - Data Chunking and Metadata Updating Tool](https://github.com/ShaneSCalder/MAC-ToolBox/tree/main/ToolBox/ChunkingTool)
+
+[Instructions -Data Chunking and Metadata Updating Tool](https://github.com/ShaneSCalder/MAC-ToolBox/tree/main/ToolBox/ChunkingTool)
+
 
 ### 3. Merkle Tree Creation and Proof Tool
 This innovative tool employs the concept of Merkle trees to enhance data integrity and verification. By creating a Merkle tree from the data chunks, it establishes a structure that enables efficient and secure verification of data contents without needing to review the entire dataset. It generates a proof of integrity for each chunk, ensuring that data has not been tampered with and maintaining trust in the dataset's authenticity.
