@@ -1,7 +1,7 @@
 # Instructions to use Chunking Tool
 
 # Overview
-CHUNK-APP is a specialized tool designed to manage and process large datasets. It divides datasets into smaller, more manageable chunks, making them easier to handle and work with. This division not only aids in data management but also updates metadata to accurately reflect these subdivisions. Each data chunk receives its own metadata file, ensuring comprehensive documentation and independent usability.
+CHUNK-APP is a specialized tool designed to manage and process large datasets. It divides datasets into smaller, more manageable chunks, making them easier to handle and work with. This division not only aids in data management but also updates metadata to accurately reflect these subdivisions. Each data chunk receives its own metadata file, ensuring comprehensive documentation and independent usability. This is part of a larger tool set provided by Merkle META.
 
 #Structure
 The application is organized into several directories and files, each serving a specific purpose in the dataset processing pipeline:
@@ -63,3 +63,48 @@ go mod tidy
 ```bash
 go run cmd/main.go
 ```
+
+## Next Steps
+
+As CHUNK_APP continues to evolve, we are focusing on enhancements and new features that will extend its utility across various domains, including enterprise solutions and tools for content creators and data labelers. Here are some of the key areas we're working on:
+
+### 1. Scalability Improvements
+
+To accommodate even larger datasets, we are exploring advanced data processing algorithms and optimization techniques. Our goal is to increase the efficiency and speed of data chunking and metadata management, ensuring the tool can handle multiple teraflops of data with ease.
+
+### 2. Enhanced User Interface
+
+While CHUNK_APP is currently a command-line tool, we plan to develop a user-friendly graphical interface. This interface will make it easier for users to manage their data processing tasks, configure settings, and monitor the progress of data chunking operations.
+
+### 3. Integration Capabilities
+
+We aim to introduce API access and integration capabilities with popular data storage and processing platforms. This will enable users to seamlessly incorporate CHUNK-APP into their existing data analysis and management workflows.
+
+### 4. Expanded Support for Data Formats
+
+Recognizing the diverse nature of datasets, we are working to support additional data formats, especially those commonly used in AI training, such as images and videos. This expansion will make CHUNK-APP a more versatile tool for content creators and data labelers.
+
+### 5. Community and Enterprise Editions
+
+To cater to different user needs, we plan to offer both Community and Enterprise editions of CHUNK_APP. The Enterprise edition will include advanced features, dedicated support, and customization options suitable for large-scale, commercial environments.
+
+### 6. Open Source Collaboration
+
+We believe in the power of community-driven development. To this end, we will continue to foster an open-source culture, encouraging contributions, feedback, and ideas from users and developers. We look forward to collaborating on new features, bug fixes, and performance enhancements.
+
+### 7. Documentation and Tutorials
+
+To assist users in maximizing the tool's potential, we will expand our documentation, offering comprehensive guides, usage scenarios, and tutorials. This resource expansion will help new users get started and enable advanced users to leverage CHUNK-APP's full capabilities.
+
+---
+
+Your feedback and contributions are invaluable to us as we take these next steps. Together, we can build a powerful toolbox that meets the growing needs of data processing and analysis across various industries.
+
+# Work Flow 
+
+![MAC_POC_MerkleMETA](https://github.com/ShaneSCalder/MAC-ToolBox/assets/29208274/f2691e30-db14-4c84-a2fc-3b1e87cdb7e0)
+
+# Use case Data Sale 
+
+![ChunkedDataSale_UseCase_MerkleMETA](https://github.com/ShaneSCalder/MAC-ToolBox/assets/29208274/9c95e558-e56c-47ad-ac45-daef630196bf)
+
