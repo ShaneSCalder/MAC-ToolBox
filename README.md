@@ -41,6 +41,8 @@ This innovative tool employs the concept of Merkle trees to enhance data integri
 
 [Code Location - Merkle Tree Creation and Proof Tool](https://github.com/ShaneSCalder/MAC-ToolBox/tree/main/ToolBox/merkleroot)
 
+[Instructions - Merkle Tree Creation and Proof Tool](https://github.com/ShaneSCalder/MAC-ToolBox/tree/main/ToolBox/merkleroot)
+
 ### 4. Indexing Tool
 To improve data discoverability, this tool takes the metadata and any additional dataset information to create an indexed structure. By organizing data in this manner, it facilitates quick and efficient data retrieval, allowing users to find the information they need promptly. This step is crucial for managing large volumes of data, ensuring that users can navigate and utilize the dataset effectively.
 
