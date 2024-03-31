@@ -39,6 +39,8 @@ Following metadata creation, this tool processes the dataset by dividing it into
 ### 3. Merkle Tree Creation and Proof Tool
 This innovative tool employs the concept of Merkle trees to enhance data integrity and verification. By creating a Merkle tree from the data chunks, it establishes a structure that enables efficient and secure verification of data contents without needing to review the entire dataset. It generates a proof of integrity for each chunk, ensuring that data has not been tampered with and maintaining trust in the dataset's authenticity.
 
+[Code Location - Merkle Tree Creation and Proof Tool](https://github.com/ShaneSCalder/MAC-ToolBox/tree/main/ToolBox/merkleroot)
+
 ### 4. Indexing Tool
 To improve data discoverability, this tool takes the metadata and any additional dataset information to create an indexed structure. By organizing data in this manner, it facilitates quick and efficient data retrieval, allowing users to find the information they need promptly. This step is crucial for managing large volumes of data, ensuring that users can navigate and utilize the dataset effectively.
 
