@@ -92,4 +92,5 @@ Looking ahead, the MAC Toolbox aims to integrate cutting-edge machine learning a
 
 ## Search Work Flow / User Flow 
 
-![Search_MacToolBox_MerkleMETA](https://github.com/ShaneSCalder/MAC/assets/29208274/3f365772-8661-485c-a460-4040313d18d2)
+<img width="2688" alt="DataSearch_MACToolbox" src="https://github.com/ShaneSCalder/MAC-ToolBox/assets/29208274/d8cc00e0-eb59-4383-ac23-3d42886b1ca9">
+
