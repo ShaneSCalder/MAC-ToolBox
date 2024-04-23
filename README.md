@@ -84,7 +84,7 @@ Looking ahead, the MAC Toolbox aims to integrate cutting-edge machine learning a
 
 ## Data Chunk & Proof Tool Work Flow / User Flow 
 
-![ChunkDataTool_Mac_MerkleMETA](https://github.com/ShaneSCalder/MAC/assets/29208274/5868c735-7051-4fe1-9cd3-b0e2282ca527)
+<img width="2016" alt="ChunkDataTool_MACToolbx" src="https://github.com/ShaneSCalder/MAC-ToolBox/assets/29208274/c4d7cc1c-0395-4a42-ad26-0f0ba5c530d8">
 
 ## MAC Toolbox Use Case 
 
