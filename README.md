@@ -76,7 +76,7 @@ Looking ahead, the MAC Toolbox aims to integrate cutting-edge machine learning a
 
 ## High level Work Flow / User Flow of the MAC Toolbox
 
-![MAC_POC_MerkleMETA](https://github.com/ShaneSCalder/MAC/assets/29208274/8c1485d6-41b4-428a-bf23-4d9858b873c3)
+<img width="2146" alt="MAC_POCWorkflow" src="https://github.com/ShaneSCalder/MAC-ToolBox/assets/29208274/e6a06e5c-869f-45d6-83b4-1d87ea2e2085">
 
 ## High level Work Flow / User Flow of the Meta Data Tool 
 
