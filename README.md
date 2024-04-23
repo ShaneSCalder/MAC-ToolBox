@@ -88,7 +88,7 @@ Looking ahead, the MAC Toolbox aims to integrate cutting-edge machine learning a
 
 ## MAC Toolbox Use Case 
 
-![ChunkedDataSale_UseCase_MerkleMETA](https://github.com/ShaneSCalder/MAC/assets/29208274/e09164f3-18ff-4ddd-bb4f-8d5ac9a30c4f)
+<img width="4706" alt="DATASaleExample_MACToolBox" src="https://github.com/ShaneSCalder/MAC-ToolBox/assets/29208274/4b499f26-2d91-404d-9c2d-9270ff2422d8">
 
 ## Search Work Flow / User Flow 
 
